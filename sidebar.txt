@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gsl:home|Door43 (gsl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gsl|d43-gsl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gsl/archive/master.zip|d43-gsl.zip]]
+
+**Recent Changes**
+{{changes>ns = gsl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gsl|Ethnologue data]]
+
